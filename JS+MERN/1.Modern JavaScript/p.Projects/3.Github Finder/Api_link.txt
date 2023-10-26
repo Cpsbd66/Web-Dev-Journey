@@ -1,0 +1,8 @@
+Api Documentation:
+https://developer.github.com/v3/
+
+Fetch an User:
+https://api.github.com/users/a/
+
+Fetch Repos:
+https://api.github.com/users/a/repos
